@@ -1,3 +1,13 @@
-# Spotify-clone
+# 🎶 Spotify Clone - Landing Page
 
-live at @ https://sayanmaity2003.github.io/Spotify-clone/
+A static landing page inspired by Spotify’s official website. Built to practice layout design, responsiveness, and modern UI aesthetics.
+
+## ✨ Features
+- Hero section with CTA buttons
+- Responsive layout
+- Smooth transitions and hover effects
+- Spotify-themed UI
+
+## 🛠 Tech Stack
+- HTML
+- CSS
